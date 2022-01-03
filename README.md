@@ -1,3 +1,13 @@
+# 공지사항
+관련링크 https://medium.com/swlh/uploadig-large-files-as-chunks-using-reactjs-net-core-2e6e00e13875
+
+## 포크관련
+
+- 대용량 파일 업로드 예제
+- 분할하여 업로드 방식
+- Node + React
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
